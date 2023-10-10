@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RFIDClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RFIDClient_jar</output-path>
+    <root id="archive" name="RFIDClient.jar">
+      <element id="module-output" name="RFIDClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar_files/jaxrs-ri/api/javax.ws.rs-api-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/asm-all-repackaged-2.1.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/cglib-2.1.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/guava-14.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/hk2-api-2.1.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/hk2-locator-2.1.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/hk2-utils-2.1.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/javax.annotation-api-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/javax.inject-2.1.88.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/javax.ws.rs-api-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/jersey-client-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/jersey-common-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (1)/osgi-resource-locator-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar_files/jackson/jackson-annotations-2.14.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar_files/jackson/jackson-core-2.14.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar_files/jackson/jackson-databind-2.14.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar_files/javax.json-1.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

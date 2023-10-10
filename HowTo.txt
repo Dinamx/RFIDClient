@@ -1,0 +1,5 @@
+import com.mix.Client;
+
+create new Instance of Client(String idofthereaderyouwanttouse,String ipoftheserver);
+
+use "getCard()" function
